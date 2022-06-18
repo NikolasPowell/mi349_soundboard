@@ -11,14 +11,20 @@ html {
 #first-button {
     background-color: black;
     color: white;
+    border-radius: 10px;
+    font-size: 24px;
 }
 
 #second-button {
     background-color: black;
     color: white;
+    border-radius: 10px;
+    font-size: 24px;
 }
 
 #third-button {
     background-color: black;
     color: white;
+    border-radius: 10px;
+    font-size: 24px;
 }
