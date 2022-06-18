@@ -16,7 +16,6 @@ html {
     font-size: 24px;
     margin: 5px;
     display: block;
-    justify-content: center;
 }
 
 #second-button {
@@ -35,4 +34,8 @@ html {
     font-size: 24px;
     margin: 5px;
     display: block;
+}
+
+.equals {
+    justify-content: center;
 }
