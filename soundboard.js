@@ -1,5 +1,6 @@
 var firstbuttonel = document.getElementById("first-button")
+var music = new Audio('applause_y.wav')
 
 firstbuttonel.addEventListener('click', function () {
-    firstbuttonel.play("applause_y.wav")
+    music.play()
 })
