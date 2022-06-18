@@ -4,6 +4,10 @@ body {
     padding: 30px;
 }
 
+html {
+    background-color: white;
+}
+
 #first-button {
     background-color: black;
     color: white;
